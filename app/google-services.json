@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "821990491580",
+    "firebase_url": "https://phone-85763.firebaseio.com",
+    "project_id": "phone-85763",
+    "storage_bucket": "phone-85763.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821990491580:android:492c1542562abc0da017b9",
+        "android_client_info": {
+          "package_name": "com.example.liginwithgoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821990491580-lgu1509nnt21qjrdcial15l5cs4kmpnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhWQVqtWgnWzaG4CnRSJZUsz7FOvQ9-4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821990491580-lgu1509nnt21qjrdcial15l5cs4kmpnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

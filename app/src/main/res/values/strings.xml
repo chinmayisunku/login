@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">phoneauth</string>
+    <string name="email">EMAIL</string>
+    <string name="login">LOGIN</string>
+    <string name="button">Button</string>
+    <string name="register_using_phone">register using phone</string>
+    <string name="enter_phone_number">enter phone number</string>
+    <string name="enter_otp">enter otp</string>
+    <string name="verify">verify</string>
+    <string name="enter_the_phone_number_for_registration">Enter the phone number for registration</string>
+    <string name="todo">TODO</string>
+    <string name="send_otp">send otp</string>
+</resources>
